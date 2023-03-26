@@ -1,0 +1,4 @@
+Argentina,Arabia Saudita
+Polonia,Mexico
+Racing,Boca
+Racing,Independiente
