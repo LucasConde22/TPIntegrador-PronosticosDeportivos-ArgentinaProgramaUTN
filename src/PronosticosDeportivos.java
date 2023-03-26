@@ -1,3 +1,18 @@
+/*
+ El programa funciona de la manera solicitada excepto en algunos
+pequeños puntos a recalcar.
+ En vez de leer la información de dos archivos ".csv" la lee de tres
+archivos ".txt" con un formato similar. Esto lo hice ya que no contaba
+con el tiempo suficiente para leer la documentación sobre cómo leer
+archivos ".csv" en Java.
+ Otra modificación que realicé es que este programa solo suma 1 punto
+si el usuario pronosticó de manera correcta el resultado exacto del partido.
+ Por último, tampoco seguí al pie de la letra el diagrama de clases especificado
+en la consigna.
+
+Link a mi repositorio de GitHub para este proyecto: https://github.com/LucasConde22/TPIntegrador-PronosticosDeportivos-ArgentinaProgramaUTN
+ */
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
